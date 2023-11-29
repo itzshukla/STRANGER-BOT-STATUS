@@ -19,11 +19,11 @@
             "required": true
         },
         "BOT_LIST": {
-            "description": "Your bot username list without '@' (Example: Maybexsessionbot MaybexhackBot)",
+            "description": "Your bot username list without '@' (Example: StrangerSuperbot StringSesssionGeneratorRobot)",
             "required": true
         },
        "CHANNEL_OR_GROUP_ID": {
-            "description": "Your channel's or group's Telegram id (Example: -1001246808642)",
+            "description": "Your channel's or group's Telegram id (Example: -1002018556839)",
             "required": true
         },
        "MESSAGE_ID": {
@@ -31,7 +31,7 @@
             "required": true
         },
         "OWNER_ID": {
-            "description": "Owner id (Example: 3579864213)",
+            "description": "Owner id (Example: 6919199044)",
             "required": true
         },
         "TIME_ZONE": {
