@@ -3,24 +3,24 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/stars/MaybeBots/Bot-Status?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/MaybeBots/Bot-Status?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/MaybeBots/Bot-Status?style=for-the-badge" alt="Watchers"> 
+    <img src="https://img.shields.io/github/stars/itzshukla/STRANGER-BOT-STATUS?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/itzshukla/STRANGER-BOT-STATUS?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/itzshukla/STRANGER-BOT-STATUS?style=for-the-badge" alt="Watchers"> 
 <br>
-    <img src="https://img.shields.io/github/repo-size/MaybeBots/Bot-Status?style=for-the-badge" alt="Repository Size">
-    <img src="https://img.shields.io/github/contributors/MaybeBots/Bot-Status?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/issues/MaybeBots/Bot-Status?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/repo-size/itzshukla/STRANGER-BOT-STATUS?style=for-the-badge" alt="Repository Size">
+    <img src="https://img.shields.io/github/contributors/itzshukla/STRANGER-BOT-STATUS?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/issues/itzshukla/STRANGER-BOT-STATUS?style=for-the-badge" alt="Issues">
 </p>  
 
 ## Config Vars
 1. `API_ID` : Telegram API_ID, get it from my.telegram.org/apps
 2. `API_HASH` : Telegram API_ID, get it from my.telegram.org/apps
-3. `SESSION_STRING` : A valid Pyrogram session string, get it from [@MaybexSessionBot](https://t.me/MaybexSessionBot)
+3. `SESSION_STRING` : A valid Pyrogram session string, get it from [@StringSesssionGeneratorRobot](https://t.me/StringSesssionGeneratorRobot)
 4. `BOT_TOKEN` : A valid bot token, get it from [@BotFather](https://t.me/BotFather)
-5. `BOT_LIST` : Your bot username list without '@' (Example: Maybexsessionbot MaybexHackBot)
-6. `CHANNEL_OR_GROUP_ID` : Your channel's or group's Telegram id (Example: -1001246808642)
+5. `BOT_LIST` : Your bot username list without '@' (Example: StringSesssionGeneratorRobot StrangerSuperbot)
+6. `CHANNEL_OR_GROUP_ID` : Your channel's or group's Telegram id (Example: -1002018556839)
 7. `MESSAGE_ID` : Telegram id of message from your channel or group (Example: 10)
-8. `OWNER_ID` : Owner id (Example: 1357907531 2468097531 3579864213)
+8. `OWNER_ID` : Owner id (Example: 6919199044 6762113050)
 9. `TIME_ZONE`: Your time zone (Example: Asia/Kolkata)
 
 ## Example
@@ -33,12 +33,12 @@
 
 **If Pyrogram**
 ```
-pip3 install git+https://github.com/maybebots/bot-status.git@pyro
+pip3 install git+https://github.com/itzshukla/STRANGER-BOT-STATUS.git@pyro
 ```
 
 **If Telethon**
 ```
-pip3 install git+https://github.com/maybebots/bot-status.git@tele
+pip3 install git+https://github.com/itzshukla/STRANGER-BOT-STATUS.git@tele
 ```
 
 2. Import the Client Class with
@@ -130,7 +130,7 @@ To deploy on a Heroku, follow these steps:
 
 2. Click the Deploy button below 
     
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MaybeBots/Bot-Status)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itzshukla/STRANGER-BOT-STATUS)
 
 ### Vps
 
@@ -143,7 +143,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 
 2. Clone the repository and navigate to the project directory:
 ```
-git clone https://github.com/maybebots/Bot-Status && cd Bot-Status
+git clone https://github.com/itzshukla/STRANGER-BOT-STATUS && cd Bot-Status
 ```
 
 3. Install the required packages:
@@ -163,8 +163,8 @@ python3 main.py
 ```
 
 ## Support
-- [Channel](https://t.me/Maybebots)
-- [Group](https://t.me/MaybeBotsSupport)
+- [Channel](https://t.me/ABOUT_SHIVANSHOP)
+- [Group](https://t.me/mastiwithfriendsx)
 
 ## Credits
 - [TeLe TiPs](https://github.com/teletips/Powerful_BotStatus-TeLeTiPs)
